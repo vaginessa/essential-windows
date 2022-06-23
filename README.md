@@ -28,3 +28,10 @@ A tabbed file manager with Add-on support.
 https://tablacus.github.io/explorer_en.html
 
 https://github.com/tablacus/TablacusExplorer/releases
+
+Notepad++
+
+https://notepad-plus-plus.org/
+
+https://github.com/notepad-plus-plus/notepad-plus-plus/releases
+
