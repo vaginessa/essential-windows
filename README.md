@@ -49,5 +49,9 @@ Nightly Builds: https://ci.bleachbit.org/?prefix=dl/4.4.2.2237-master/
 Winapp2.ini Addon: https://github.com/MoscaDotTo/Winapp2/raw/master/Non-CCleaner/Winapp2.ini
 
 
+WindowsSpyBlocker
+
+https://github.com/crazy-max/WindowsSpyBlocker/releases/latest
+
 
 
