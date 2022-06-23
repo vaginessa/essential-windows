@@ -53,5 +53,9 @@ WindowsSpyBlocker
 
 https://github.com/crazy-max/WindowsSpyBlocker/releases/latest
 
+simplewall
+
+https://www.henrypp.org/product/simplewall
+
 
 
