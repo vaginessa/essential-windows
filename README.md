@@ -39,3 +39,10 @@ Universal Extractor 2 (UniExtract2)
 
 
 https://github.com/Bioruebe/UniExtract2/releases
+
+Bleachbit - Clean Your System and Free Disk Space
+
+https://www.bleachbit.org/download/windows
+
+Nightly Builds: https://ci.bleachbit.org/?prefix=dl/4.4.2.2237-master/
+
