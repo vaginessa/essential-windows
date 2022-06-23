@@ -35,3 +35,7 @@ https://notepad-plus-plus.org/
 
 https://github.com/notepad-plus-plus/notepad-plus-plus/releases
 
+Universal Extractor 2 (UniExtract2)
+
+
+https://github.com/Bioruebe/UniExtract2/releases
