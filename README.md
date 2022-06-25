@@ -67,6 +67,10 @@ WinDirStat
 https://windirstat.net/download.html
 
 
+SMPlayer
+
+https://github.com/smplayer-dev/smplayer/releases
+
 
 
 
