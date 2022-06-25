@@ -76,3 +76,13 @@ WPD
 Privacy dashboard for Windows 
 
 https://wpd.app/
+
+
+
+
+WSCC - Windows System Control Center
+
+https://www.kls-soft.com/wscc/downloads.php
+
+https://github.com/vaginessa/WindowsSystemControlCenter_Keygen
+
