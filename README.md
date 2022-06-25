@@ -86,3 +86,8 @@ https://www.kls-soft.com/wscc/downloads.php
 
 https://github.com/vaginessa/WindowsSystemControlCenter_Keygen
 
+
+Librewolf - Firefox fork
+
+https://gitlab.com/librewolf-community/browser/windows/-/releases
+
