@@ -72,5 +72,7 @@ SMPlayer
 https://github.com/smplayer-dev/smplayer/releases
 
 
+WPD
+Privacy dashboard for Windows 
 
-
+https://wpd.app/
