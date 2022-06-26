@@ -91,3 +91,11 @@ Librewolf - Firefox fork
 
 https://gitlab.com/librewolf-community/browser/windows/-/releases
 
+
+EasyJoin
+
+EasyJoin Pro Windows: https://easyjoin.net/windows.html
+
+EasyJoin Essential Android: https://easyjoin.net/android_free.html
+
+
