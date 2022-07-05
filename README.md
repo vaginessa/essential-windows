@@ -4,75 +4,75 @@
 
 
 
-Sandboxie-Plus
+### Sandboxie-Plus
 
 https://github.com/sandboxie-plus/Sandboxie/releases/latest
 
-Process Hacker
+### Process Hacker
 
 https://processhacker.sourceforge.io/
 
 
-Nightly Builds: https://ci.appveyor.com/project/processhacker/processhacker/build/artifacts
+#### Nightly Builds: https://ci.appveyor.com/project/processhacker/processhacker/build/artifacts
 
-DNS Jumper
+### DNS Jumper
 
 https://www.sordum.org/7952/dns-jumper-v2-2/
 
-Download: 
+#### Download: 
 https://www.sordum.org/downloads/?dns-jumper
 
-Tablacus Explorer
+### Tablacus Explorer
 
 A tabbed file manager with Add-on support.
 https://tablacus.github.io/explorer_en.html
 
 https://github.com/tablacus/TablacusExplorer/releases
 
-Notepad++
+### Notepad++
 
 https://notepad-plus-plus.org/
 
 https://github.com/notepad-plus-plus/notepad-plus-plus/releases
 
-Universal Extractor 2 (UniExtract2)
+### Universal Extractor 2 (UniExtract2)
 
 
 https://github.com/Bioruebe/UniExtract2/releases
 
-Bleachbit - Clean Your System and Free Disk Space
+### Bleachbit - Clean Your System and Free Disk Space
 
 https://www.bleachbit.org/download/windows
 
-Nightly Builds: https://ci.bleachbit.org/?prefix=dl/4.4.2.2237-master/
+#### Nightly Builds: https://ci.bleachbit.org/?prefix=dl/4.4.2.2237-master/
 
-Winapp2.ini Addon: https://github.com/MoscaDotTo/Winapp2/raw/master/Non-CCleaner/Winapp2.ini
+#### Winapp2.ini Addon: https://github.com/MoscaDotTo/Winapp2/raw/master/Non-CCleaner/Winapp2.ini
 
 
-WindowsSpyBlocker
+### WindowsSpyBlocker
 
 https://github.com/crazy-max/WindowsSpyBlocker/releases/latest
 
-simplewall
+### simplewall
 
 https://www.henrypp.org/product/simplewall
 
-Windows Firewall Control
+### Windows Firewall Control
 
 https://www.binisoft.org/wfc.php
 
 
-WinDirStat
+### WinDirStat
 
 https://windirstat.net/download.html
 
 
-SMPlayer
+### SMPlayer
 
 https://github.com/smplayer-dev/smplayer/releases
 
 
-WPD
+### WPD
 Privacy dashboard for Windows 
 
 https://wpd.app/
@@ -80,22 +80,22 @@ https://wpd.app/
 
 
 
-WSCC - Windows System Control Center
+### WSCC - Windows System Control Center
 
 https://www.kls-soft.com/wscc/downloads.php
 
 https://github.com/vaginessa/WindowsSystemControlCenter_Keygen
 
 
-Librewolf - Firefox fork
+### Librewolf - Firefox fork
 
 https://gitlab.com/librewolf-community/browser/windows/-/releases
 
 
-EasyJoin
+### EasyJoin
 
-EasyJoin Pro Windows: https://easyjoin.net/windows.html
+#### EasyJoin Pro Windows: https://easyjoin.net/windows.html
 
-EasyJoin Essential Android: https://easyjoin.net/android_free.html
+#### EasyJoin Essential Android: https://easyjoin.net/android_free.html
 
 
