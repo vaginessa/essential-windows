@@ -1,5 +1,7 @@
 # essential-windows
-### essential Windows stuff. Target: Win 8.1 64bit
+### essential Windows stuff. 
+![winlogo](./windows-logo.jpg)
+Target: Win 8.1 64bit
 
 
 
