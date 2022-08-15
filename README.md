@@ -64,6 +64,13 @@ https://github.com/smplayer-dev/smplayer/releases
 
 https://zadig.akeo.ie/
 
+### USB Oblivion
+This utility designed to erase all traces of (broken) connected USB devices - flash-drives, disks and CD-ROMs from computer registry of Windows
+
+https://www.cherubicsoft.com/en/projects/usboblivion/
+
+
+
 ### WSCC - Windows System Control Center
 
 http/www.kls-soft.com/wscc/downloads.php
