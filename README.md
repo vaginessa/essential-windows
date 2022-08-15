@@ -60,17 +60,13 @@ https://windirstat.net/download.html
 https://github.com/smplayer-dev/smplayer/releases
 
 
-### WPD
-Privacy dashboard for Windows 
+### Zadig - USB driver installation made easy
 
-https://wpd.app/
-
-
-
+https://zadig.akeo.ie/
 
 ### WSCC - Windows System Control Center
 
-https://www.kls-soft.com/wscc/downloads.php
+http/www.kls-soft.com/wscc/downloads.php
 
 https://github.com/vaginessa/WindowsSystemControlCenter_Keygen
 
