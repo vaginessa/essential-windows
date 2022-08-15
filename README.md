@@ -24,12 +24,6 @@ https://www.sordum.org/7952/dns-jumper-v2-2/
 #### Download: 
 https://www.sordum.org/downloads/?dns-jumper
 
-### Tablacus Explorer
-
-A tabbed file manager with Add-on support.
-https://tablacus.github.io/explorer_en.html
-
-https://github.com/tablacus/TablacusExplorer/releases
 
 ### Notepad++
 
@@ -50,14 +44,6 @@ https://www.bleachbit.org/download/windows
 
 #### Winapp2.ini Addon: https://github.com/MoscaDotTo/Winapp2/raw/master/Non-CCleaner/Winapp2.ini
 
-
-### WindowsSpyBlocker
-
-https://github.com/crazy-max/WindowsSpyBlocker/releases/latest
-
-### simplewall
-
-https://www.henrypp.org/product/simplewall
 
 ### Windows Firewall Control
 
