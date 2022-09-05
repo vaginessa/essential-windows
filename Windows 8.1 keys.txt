@@ -1,0 +1,60 @@
+---------------------------------------
+9DTRT-TNCY6-2T87P-KDMHK-RM32D
+---------------------------------------
+334NH-RXG76-64THK-C7CKG-D3VPT
+---------------------------------------
+9DTRT-TNCY6-2T87P-KDMHK-RM32D
+---------------------------------------
+
+https://pastebin.com/search?q=windows+8.1
+https://pastebin.com/Zk5iQPxE
+
+Windows 8.1 RTM Retail Channel Default [Installation] Keys
+===========================================================
+334NH-RXG76-64THK-C7CKG-D3VPT (Core)                 (Supported)
+6NPQ8-PK64X-W4WMM-MF84V-RGB89 (Core N)               (Supported)
+NK2V7-9DWXG-KMTWQ-K9H9M-6VHPJ (Core ARM)
+Y9NXP-XT8MV-PT9TG-97CT3-9D6TC (Core Single Language) (Supported)
+TNH8J-KG84C-TRMG4-FFD7J-VH4WX (Core Country Specific)
+XHQ8N-C3MCJ-RQXB6-WCHYG-C9WKB (Professional)         (Supported)
+JRBBN-4Q997-H4RM2-H3B7W-Q68KC (Professional N)       (Supported)
+GBFNG-2X3TC-8R27F-RMKYB-JK7QT (Professional WMC) 
+
+
+Windows 8.1 Pro Pack Product Key:
+RR3BN-3YY9P-9D7FC-7J4YF-QGJXW
+
+
+    (Supported)
+7VY4Y-6N6R2-DGYC7-TTPQT-GMRXJ (Enterprise)           (Supported)
+MNDGV-M6PKV-DV4DR-CYY8X-2YRXH (Enterprise N)         (Supported)
+D6RD9-D4N8T-RT9QX-YW6YT-FCWWJ (Starter)
+3NFXW-2T27M-2BDW6-4GHRV-68XRX (Starter N)
+6Q7P9-NFD2F-7JGQR-3X277-9BQMR (Embedded)
+J2ND2-BCW98-8669Y-HPBF3-RDY99 (Embedded A)
+MNKW8-HYCCD-G88JY-283WV-W9FX9 (Embedded E)
+VV6W8-NF7BJ-FKHGQ-P424D-FHC7K (Embedded Eval)
+VKKC6-NQQQH-JW3QX-XRVKX-KJJK9 (Embedded EEval)
+GN7VX-YKPC2-XY98J-9RYKX-KP9HV (Embedded Industry)
+TP7MN-9H7FK-P4PJM-K6KJT-Y97RY (Embedded IndustryA)
+NDXXJ-YX29Q-JDY6B-C93G8-TQ6WH (Embedded IndustryE)
+XDJ76-KNBM8-BB9BK-B4CHH-XD6VR (Embedded IndustryEval)
+PPBKC-NQYJM-JJ8X6-26W42-VFQ4R (Embedded IndustryEEval)
+######################################################################
+Windows Server 2012 R2 RTM Retail Channel Default [Installation] Keys
+======================================================================
+3WN48-GVPXF-VHWK4-29Y8D-KKTD2 (Server Web)
+Q8R8C-T2W6H-7MGPB-4CQ9R-KR36H (Server Hyper-V)
+NB4WH-BBBYV-3MPPC-9RCMV-46XCB (Server Standard)           (Supported)
+BH9T4-4N7CW-67J3M-64J36-WW98Y (Server Datacenter)         (Supported)
+326N4-6GMBX-PD2QT-M7HX4-TVHM8 (Server Essentials)         (Supported)
+7JGXN-BW8X3-DTJCK-WG7XB-YWP26 (Server Foundation)         (Supported)
+BFBN8-X8K7C-347CH-JG6KC-W2M6X (Server CloudStorage)       (Supported)
+CG9N3-WKB9P-FMQG6-J3D8C-TMRR2 (Server StandardEval)
+VVWKN-DRYGT-GBG6F-YQ79J-29WGC (Server DatacenterEval)
+H2K4M-QNKQ2-64699-FYQHD-2WDYT (Server StorageStandard)
+27FBJ-8NMFM-PK3H8-4D7B4-HQVMV (Server StorageStandardEval)
+8N7PM-D3C64-RQVYF-MX8T7-G6MB2 (Server StorageWorkgroup)
+NDBQF-2F4M6-WG6VH-HPGK6-V6B78 (Server StorageWorkgroupEval)
+#####################################################################
+#####################################################################
