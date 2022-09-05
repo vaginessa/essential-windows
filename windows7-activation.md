@@ -25,3 +25,6 @@ V77DJ-CT8WB-Y3GXT-X3FBP-6F987
 JC7BV-94FD2-D86PH-XRMHR-BXKDG
 
 RFQ4X-89FJ8-6BHJQ-RC8QJ-F2P2K
+
+------------
+https://get.msguides.com/windows7_licensekeys.txt
