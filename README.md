@@ -79,6 +79,11 @@ This utility designed to erase all traces of (broken) connected USB devices - fl
 
 https://www.cherubicsoft.com/en/projects/usboblivion/
 
+### Driver Store Explorer [RAPR]
+Driver Store Explorer [RAPR] makes it easier to deal with Windows driver store. Supported operations include list/add/install/delete third-party driver packages.
+
+
+https://github.com/lostindark/DriverStoreExplorer/releases
 
 
 ### WSCC - Windows System Control Center
