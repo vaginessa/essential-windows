@@ -1,12 +1,11 @@
-# essential-windows
-### essential Windows stuff. 
+## essential-windows
+#### **essential Windows stuff, preferably FLOSS Software**
 ![winlogo](./windows-logo.jpg)
 
-#### Target: Win 8.1 64bit
+**Target: Win 8.1 64bit**
 
 ### Explorer++
 Explorer++ is a small and fast file manager for Windows. With tabs, bookmarks and advanced file operations
-
 
 https://explorerplusplus.com/
 
@@ -14,6 +13,7 @@ https://github.com/derceg/explorerplusplus
 
 
 ### All in One Runtimes
+
 https://www.sereby.org/site/All%20in%20One%20Runtimes
 
 
@@ -27,14 +27,14 @@ https://github.com/sandboxie-plus/Sandboxie/releases/latest
 https://processhacker.sourceforge.io/
 
 
-#### Nightly Builds: https://ci.appveyor.com/project/processhacker/processhacker/build/artifacts
+**Nightly Builds:** https://ci.appveyor.com/project/processhacker/processhacker/build/artifacts
 
 
 ### DNS Jumper
 
 https://www.sordum.org/7952/dns-jumper-v2-2/
 
-#### Download: 
+**Download:**
 https://www.sordum.org/downloads/?dns-jumper
 
 
@@ -47,7 +47,6 @@ https://github.com/notepad-plus-plus/notepad-plus-plus/releases
 
 ### Universal Extractor 2 (UniExtract2)
 
-
 https://github.com/Bioruebe/UniExtract2/releases
 
 
@@ -55,9 +54,9 @@ https://github.com/Bioruebe/UniExtract2/releases
 
 https://www.bleachbit.org/download/windows
 
-#### Nightly Builds: https://ci.bleachbit.org/?prefix=dl/4.4.2.2237-master/
+**Nightly Builds:** https://ci.bleachbit.org/?prefix=dl/4.4.2.2237-master/
 
-#### Winapp2.ini Addon: https://github.com/MoscaDotTo/Winapp2/raw/master/Non-CCleaner/Winapp2.ini
+**Winapp2.ini Addon:** https://github.com/MoscaDotTo/Winapp2/raw/master/Non-CCleaner/Winapp2.ini
 
 
 ### Windows Firewall Control
@@ -95,7 +94,7 @@ https://github.com/lostindark/DriverStoreExplorer/releases
 
 ### WSCC - Windows System Control Center
 
-http/www.kls-soft.com/wscc/downloads.php
+https://www.kls-soft.com/wscc/downloads.php
 
 https://github.com/vaginessa/WindowsSystemControlCenter_Keygen
 
@@ -107,14 +106,13 @@ https://gitlab.com/librewolf-community/browser/windows/-/releases
 
 ### EasyJoin
 
-###dE
-asyJoin Pro Windows: https://easyjoin.net/windows.html
+**EasyJoin Pro Windows:** https://easyjoin.net/windows.html
 
-#### EasyJoin Essential Android: https://easyjoin.net/android_free.html
+**EasyJoin Essential Android:** https://easyjoin.net/android_free.html
 
 
 ### Photon 🚀
-#### Cross-platform file-sharing application built with flutter
+**Cross-platform file-sharing application built with flutter**
 Linux, MacOS, Windows, Android
 
 https://github.com/abhi16180/photon/releases
