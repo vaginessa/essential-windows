@@ -4,6 +4,14 @@
 
 Target: Win 8.1 64bit
 
+### Explorer++
+Explorer++ is a small and fast file manager for Windows. With tabs, bookmarks and advanced file operations
+
+
+https://explorerplusplus.com/
+
+https://github.com/derceg/explorerplusplus
+
 
 ### All in One Runtimes
 https://www.sereby.org/site/All%20in%20One%20Runtimes
@@ -91,4 +99,9 @@ https://gitlab.com/librewolf-community/browser/windows/-/releases
 
 #### EasyJoin Essential Android: https://easyjoin.net/android_free.html
 
+### Photon 🚀
+#### Cross-platform file-sharing application built with flutter
+Linux, MacOS, Windows, Android
+
+https://github.com/abhi16180/photon/releases
 
