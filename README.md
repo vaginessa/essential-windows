@@ -110,7 +110,7 @@ Linux, MacOS, Windows, Android
 
 https://github.com/abhi16180/photon/releases
 
-### Hoptodesk
+### Hoptodesk 🦘
 Free remote desktop software featuring true end-to-end encrypted traffic, file transfer, and live chat.
 
 https://www.hoptodesk.com/
