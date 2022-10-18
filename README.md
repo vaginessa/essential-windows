@@ -37,6 +37,12 @@ https://www.sordum.org/7952/dns-jumper-v2-2/
 **Download:**
 https://www.sordum.org/downloads/?dns-jumper
 
+### DNS-LOCK
+
+https://www.sordum.org/9432/dns-lock-v1-4/
+
+**Sownload:**
+https://www.sordum.org/downloads/?st-dns-lock
 
 ### Notepad++
 
