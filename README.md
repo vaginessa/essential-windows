@@ -1,4 +1,5 @@
 ## essential-windows
+#### https://vaginessa.github.io/essential-windows/
 #### **essential Windows stuff, preferably FLOSS Software**
 ![winlogo](./windows-logo.jpg)
 
