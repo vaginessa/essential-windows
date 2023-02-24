@@ -130,3 +130,10 @@ Free remote desktop software featuring true end-to-end encrypted traffic, file t
 
 https://www.hoptodesk.com/
 
+
+### NAPS2 - Not Another PDF Scanner
+
+https://www.naps2.com/
+
+https://github.com/cyanfish/naps2
+
