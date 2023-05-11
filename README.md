@@ -117,6 +117,12 @@ a portable Windows tool to install and update device drivers, can be used offlin
 https://www.glenn.delahoy.com/snappy-driver-installer-origin/
 
 
+### Botien Driver Installer
+Automates the whole process of installing device drivers for you. You just have to specify the drivername.inf setup file then the software will do the rest.
+
+https://github.com/bonfotieno/BDI
+
+
 ### WSCC - Windows System Control Center
 
 https://www.kls-soft.com/wscc/downloads.php
