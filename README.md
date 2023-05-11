@@ -25,6 +25,11 @@ https://github.com/derceg/explorerplusplus
 
 https://www.sereby.org/site/All%20in%20One%20Runtimes
 
+### ASoft .NET Version Detector
+ASoft .NET Version Detector is a lightweight tool that gives information on the different versions of Microsoft .NET and .NET Core that are installed on a machine.
+
+https://asoft.be/prod_netver.html
+
 
 ### Sandboxie-Plus
 
