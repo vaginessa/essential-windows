@@ -14,14 +14,14 @@ https://github.com/derceg/explorerplusplus
 
 
 ### All in One Runtimes
-.NET Framework 4.8 + Updates ! Java Runtime Environment 8
-! DirectX 9.0c Zusatzdateien
-! Allgemeine Runtime Dateien
-! Microsoft Visual C++ Runtimes (v2005 - v2019)
-! Microsoft Visual J# 2.0 SE
-! Microsoft Silverlight 5
-! Adobe Flash Player (Opera, FireFox, Internet Explorer)
-! Shockwave Player 12 (Internet Explorer Plugin)
+.NET Framework 4.8 + Updates | Java Runtime Environment 8
+| DirectX 9.0c Zusatzdateien
+| Allgemeine Runtime Dateien
+| Microsoft Visual C++ Runtimes (v2005 - v2019)
+| Microsoft Visual J# 2.0 SE
+| Microsoft Silverlight 5
+| Adobe Flash Player (Opera, FireFox, Internet Explorer)
+| Shockwave Player 12 (Internet Explorer Plugin)
 
 https://www.sereby.org/site/All%20in%20One%20Runtimes
 
