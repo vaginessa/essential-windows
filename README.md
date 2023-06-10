@@ -5,6 +5,12 @@
 
 **Target: Win 8.1 64bit**
 
+**GOOD BLOCKLIST:**
+https://github.com/hagezi/dns-blocklists
+
+https://o0.pages.dev/ | https://github.com/badmojr/1Hosts/
+
+
 ### Explorer++
 Explorer++ is a small and fast file manager for Windows. With tabs, bookmarks and advanced file operations
 
