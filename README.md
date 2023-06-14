@@ -5,11 +5,13 @@
 
 **Target: Win 8.1 64bit**
 
-**GOOD BLOCKLIST:**
+> :bulb: **check:** https://github.com/Lumaeris/awesome-windows
 
-⛔ https://github.com/hagezi/dns-blocklists
-
-⛔ https://o0.pages.dev/ | https://github.com/badmojr/1Hosts/
+> **GOOD BLOCKLIST:**
+>
+> ⛔ https://github.com/hagezi/dns-blocklists
+>
+> ⛔ https://o0.pages.dev/ | https://github.com/badmojr/1Hosts/
 
 
 ### Explorer++
