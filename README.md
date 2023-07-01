@@ -171,6 +171,12 @@ Free remote desktop software featuring true end-to-end encrypted traffic, file t
 https://www.hoptodesk.com/
 
 
+### cmder
+ Lovely console emulator package for Windows 
+
+https://cmder.app/
+https://github.com/cmderdev/cmder
+
 ### NAPS2 - Not Another PDF Scanner
 
 https://www.naps2.com/
