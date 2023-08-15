@@ -13,6 +13,16 @@
 >
 > ⛔ https://o0.pages.dev/ | https://github.com/badmojr/1Hosts/
 
+#### Free DNS Servers implementing blocklists:
+
+
+| **Name**      | **IP4**                | **IP6**                       | **DNS-over-HTTPS**                         | **DNS-over-TLS**                   |
+|---------------|------------------------|-------------------------------|--------------------------------------------|------------------------------------|
+| 1Hosts (Pro)  | 76.76.2.39 76.76.10.39 | 2606:1a40:1::39 2606:1a40::39 | https://freedns.controld.com/x-1hosts-pro  | x-1hosts-pro.freedns.controld.com  |
+| 1Hosts (Lite) | 76.76.2.38 76.76.10.38 | 2606:1a40:1::38 2606:1a40::38 | https://freedns.controld.com/x-1hosts-lite | x-1hosts-lite.freedns.controld.com |
+
+**see** https://docs.controld.com/docs/free-dns **for more...** 
+
 
 ### Explorer++
 Explorer++ is a small and fast file manager for Windows. With tabs, bookmarks and advanced file operations
