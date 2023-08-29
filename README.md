@@ -146,6 +146,12 @@ https://www.kls-soft.com/wscc/downloads.php
 
 https://github.com/vaginessa/WindowsSystemControlCenter_Keygen
 
+```
+Name: HVKA-9000
+Code: LMF6V2VRXZEYY22ZQIVC76DZ4DRZF0A02F1  
+```
+
+
 
 ### Librewolf - Firefox fork
 
