@@ -185,12 +185,12 @@ https://www.hoptodesk.com/
 https://cmder.app/
 https://github.com/cmderdev/cmder
 
+### Doro  
 
-### NAPS2 - Not Another PDF Scanner
+https://the-sz.com/products/doro/
 
-https://www.naps2.com/
+Create colored PDF documents from any Windows application for free. No banners nor any annoying restrictions! 
 
-https://github.com/cyanfish/naps2
 --------------
 
 🟢
