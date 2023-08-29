@@ -146,6 +146,8 @@ https://www.kls-soft.com/wscc/downloads.php
 
 https://github.com/vaginessa/WindowsSystemControlCenter_Keygen
 
+💥 run Keygen online: https://trinket.io/python3/ff5fc25144?outputOnly=true&start=result 💥
+
 ```
 Name: HVKA-9000
 Code: LMF6V2VRXZEYY22ZQIVC76DZ4DRZF0A02F1  
