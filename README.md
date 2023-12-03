@@ -3,7 +3,7 @@
 #### **essential Windows stuff, preferably FLOSS Software**
 ![winlogo](./windows-logo.jpg)
 
-**Target: Win 8.1 64bit**
+**Target: Windows 10 64bit - ReviOS https://revi.cc/**
 
 > :bulb: **check:** https://github.com/Lumaeris/awesome-windows
 
